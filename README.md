@@ -1,8 +1,8 @@
-<h2 style ="color: black; background-color:yellow; font-family:Comic Sans MS;" align = "center">Linear-Regression</h2>
+<h2 style ="font-family:Comic Sans MS;" align = "center">Linear-Regression</h2>
 
 Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 
-Make sure your data meets linear-regression assumptions
+<h2 style ="font-family:Comic Sans MS;" align = "center">Make sure your data meets linear-regression assumptions</h2>
 
 
 Before you attempt to perform linear regression, you need to make sure that your data can be analyzed using this procedure. Your data must pass through certain required assumptions.
