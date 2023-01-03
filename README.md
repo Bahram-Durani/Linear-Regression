@@ -13,3 +13,8 @@ Before you attempt to perform linear regression, you need to make sure that your
 4. Your data should have no significant outliers. 
 5. Check for homoscedasticity — a statistical concept in which the variances along the best-fit linear-regression line remain similar all through that line.
 6. The residuals (errors) of the best-fit regression line follow normal distribution.
+
+
+
+Linear_regression_1  contains headbrain and canada per capita datasets.
+Linear_regression_2  contains Salary and housing datasets.
