@@ -16,6 +16,5 @@ Before you attempt to perform linear regression, you need to make sure that your
 
 
 
-Linear_regression_1  contains headbrain and canada per capita datasets.
-
-<\n>Linear_regression_2  contains Salary and housing datasets.
+- Linear_regression_1  contains headbrain and canada per capita datasets.
+- Linear_regression_2  contains Salary and housing datasets.
