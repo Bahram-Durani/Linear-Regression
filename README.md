@@ -18,3 +18,4 @@ Before you attempt to perform linear regression, you need to make sure that your
 
 - Linear_regression_1  contains headbrain and canada per capita datasets.
 - Linear_regression_2  contains Salary and housing datasets.
+- Stock price prediction is a minor project that I have successfully completed during my 2-month internship at Corizo.  
